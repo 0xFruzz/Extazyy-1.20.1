@@ -10,7 +10,7 @@ public class Start
     String assets = System.getenv().containsKey("assetDirectory") ? System.getenv("assetDirectory") : "src\\main\\resources\\assets";
     Main.main(concat(new String[] {"--version", "mcp", "--accessToken", "0", "--assetsDir", assets, "--assetIndex", "1.16", "--userProperties", "{}"}, args));
     
-}   //s
+}  
 
     public static <T> T[] concat(T[] first, T[] second)
     {
