@@ -1,0 +1,59 @@
+{
+  "userSet": {
+    "selected": {
+      "username": "Fruzz",
+      "type": "plain"
+    },
+    "list": [
+      {
+        "username": "EXTAZYYFruzz",
+        "uuid": "0280760e5156313aa23522b5d17ea780",
+        "type": "plain"
+      },
+      {
+        "id": "cdf97fdb-9e10-4b82-bca4-7f474e222433",
+        "name": "BuffNICEBOY1337",
+        "minecraft": {
+          "token": "eyJraWQiOiJhYzg0YSIsImFsZyI6IkhTMjU2In0.eyJ4dWlkIjoiMjUzNTQxNjA0MzgyNjQxMyIsImFnZyI6IkFkdWx0Iiwic3ViIjoiNmQwZTA4YTktY2Y4Zi00YTI1LWE2ODAtN2M5NTIxMjg2ZmFmIiwiYXV0aCI6IlhCT1giLCJucyI6ImRlZmF1bHQiLCJyb2xlcyI6W10sImlzcyI6ImF1dGhlbnRpY2F0aW9uIiwiZmxhZ3MiOlsidHdvZmFjdG9yYXV0aCIsIm1zYW1pZ3JhdGlvbl9zdGFnZTQiLCJvcmRlcnNfMjAyMiIsIm11bHRpcGxheWVyIl0sInByb2ZpbGVzIjp7Im1jIjoiY2RmOTdmZGItOWUxMC00YjgyLWJjYTQtN2Y0NzRlMjIyNDMzIn0sInBsYXRmb3JtIjoiVU5LTk9XTiIsIm5iZiI6MTcxNTIxMDg5NiwiZXhwIjoxNzE1Mjk3Mjk2LCJpYXQiOjE3MTUyMTA4OTZ9.aDqCdu-y2unM42CCX9kdAlFLusrZqYzzVFgNU-BSyls",
+          "expiresAt": "2024-05-09T23:28:16.218932100Z"
+        },
+        "microsoft": {
+          "accessToken": "EwAwA+pvBAAUKods63Ys1fGlwiccIFJ+qE1hANsAATfWnEMC53tNtHUln28FZJXfxHNQ3+pKmeQjEbDv/EV45KY8Q+400ff5RwXXvOrIf30LLRd1N+1Pz/Y3mWHBb/XZ7dqfl+4hg2Ml0/6nMS7cyJfC5aacQUB64BwU8suX8MAeax+YU8aWYailgCvFBlXBxIEfmVOwGsB4EADS1gQUkNCfpMPkkOqZSzw1YAFSSEDD1yp7ZEE1STsVRhkW2Xj1Btma2h5FjEwccZHo+n+H2kKyRqTVXb9rSc55/GdQWwjmwCtCsIYwB2k2WXprNqPxnE/AA6pdDfMmSRIyNqixvtTU+fMYqmCuhrMKvwEoeJ4rzWOQgFKUYm0RhxPMrF8DZgAACMob9uJOM5/OAAJMfECGe0lPNA9lTetjyfdvT1WQdEWtyneQCsTQTb3uGWsSsMc9iq+7n3T9CtvhOWmQXx9bRxG+/nNb/LZxtDBrsiDlOYXtJDi1tA6FygYBcDdhXgRN0Q85+E6QNKKvKDceYrruJA3UmYTYKdG24TP21IaLpagqw3SY8fKv6vM+bYVDNSBtZaZvRlkKnLFzG/KmwM46iocybm3dfc4f3L8UbiSohRsBpqQgiyhqMSHcwCJDGFeMAPrOfD35nbH+MasBsw3iCHX7yVxCGUg2ajxhFevnOoXYo05sRh89U3fj1a/ArZCDEi5AU2bi9aYgArEBb/h8jc6l87zAqOZButrd1CY+5IDk6e3IKgdkIj7Ubwq+ulsIeuV2/0QTKdFjnCzCrR2nsniI5+tdeUaq9dxaiU7jxbWiqVQEOsARW6KwqZT/YXKrngkeRAt2emBgBacVzZkiUo+2UkxtUBPrw3ZzrndL+pXuDF97jeOse8i+b/g+PKh6A6k7r0sclgz5mgEzA5Bq8RRxpgj6yGDkQh+19lSZkAPRckwv2GW8NqO09JYmizDcps8oXDnoHSnbd2vY/QZGdVbgY2IA955ML0RmkSvxZaOutP14Y9ehbQVvvr6gaimpZqs1rsVhSziw9kbVmijz/8pG9jmbWTdIf1AWn4+RJ6KcBlWM1yo+hL2isi8C",
+          "refreshToken": "M.C548_BL2.0.U.-CjXy1hTYcB2JX72vqfbX3eiHb5vKoqGb6XmBUq75h9PL91vL4uSxKf31Ae0WUWDDyyyoYaTU0EXMZDN8KyIwxOdc36*3Z3XQy2NtMjsAypqH4pE305pkDg!gpmBK9Z*WzhDEYpJCimwKFG9STN*YS8*CeaWqwzVvNKcnfYfqruhsmM*CMZ5S10YnX!0C02zFWNeivX7Ic6DI!6QbQV2KOCHwpYsU5nVsdKrOMcfSIv6DF6MXOFeqbexvEwvFB1Kzk90zJd2DC6DG6xyT5FI6om85w4XkJ8m!z12UX7u7NUbRFOtO3izEWvyajvcOJ0oD0rJMQzIRBXqbsElIsVFzwUJuO2TxQq1exFwIADTQgO0i",
+          "expiresAt": "2024-05-09T00:28:13.664279400Z"
+        },
+        "type": "minecraft"
+      },
+      {
+        "username": "LiteGiver",
+        "uuid": "ee471aae5f3f3682bca5c03f27225b25",
+        "type": "plain"
+      },
+      {
+        "username": "xrazored",
+        "uuid": "f549a9dd1eb73b34894726eed38ae5e2",
+        "type": "plain"
+      },
+      {
+        "username": "fruzzvEZZ",
+        "uuid": "6cab56465ada3e8083f26c6be5c1726f",
+        "type": "plain"
+      },
+      {
+        "username": "SoFruzz_",
+        "uuid": "049522939808335f842b761b3846a1c6",
+        "type": "plain"
+      },
+      {
+        "username": "NullPointer__",
+        "uuid": "de90d4488e223b599f8d0661e8013c43",
+        "type": "plain"
+      },
+      {
+        "username": "Fruzz",
+        "uuid": "ec6c7c021a203a0b87caf923e9e7949b",
+        "type": "plain"
+      }
+    ]
+  }
+}

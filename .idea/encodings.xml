@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1251">
+    <file url="file://$PROJECT_DIR$/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Start.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/mojang/blaze3d/audio/Channel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/net/minecraft/client/gui/screens/ChatScreen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/net/minecraft/client/player/AbstractClientPlayer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/net/minecraft/commands/Commands.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/Extazyy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/info/BuildInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/info/UserInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/drag/Drag.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/drag/DragManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/drag/Dragging.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/modules/impl/combat/Aura.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/modules/impl/render/CustomWorld.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/modules/impl/render/Hud.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/modules/impl/render/JumpCircle.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/modules/impl/render/WorldParticles.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/modules/impl/unused/TestModule.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/themes/HexColor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/themes/Theme.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/main/themes/ThemesUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/font/FontRenderer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/font/FontRenderers.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/ui/clickgui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/ui/clickgui/ClickGui.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/ui/clickgui/impl/ModuleTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/ui/clickgui/tools/MultiBoxTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/ui/clickgui/tools/SliderTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/ui/themeui/impl/CTWindow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/ui/themeui/impl/ThemeTool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/ui/themeui/impl/Tool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/ui/umbrellagui/UmbrellaGui.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/fruzz/extazyy/misc/ui/umbrellagui/general/Component.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/assets/minecraft/extazyy/images/cape" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/assets/minecraft/extazyy/images/svastonwhite.png" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
